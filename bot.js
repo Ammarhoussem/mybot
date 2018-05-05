@@ -370,4 +370,4 @@ member.guild.channels.get("438324378032406532").sendFile(canvas.toBuffer());
 
 
 
-client.login('NDQwNDcwMDQ4MzM5OTE4ODU4.DcpXEw.OWCRljq6QH_XMUPura-BJLoeW20');
+client.login('token');
